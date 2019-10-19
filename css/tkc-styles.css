@@ -6,3 +6,11 @@
 .mt-8 {
 	margin-top: 6.5rem!important	
 }
+.lead {
+    font-size: 1.10rem;
+    font-weight: 400;
+}
+.form-control:focus {
+	border-color: #bf97dc;
+	box-shadow: 0 0 0 0.2rem rgb(210, 178, 232);
+}

@@ -1,9 +1,10 @@
+
+var year = new Date();
+document.getElementById('year').innerHTML = year.getFullYear();
+
 new Vue({
 	el: '#app',
 	data:{
 		readMore: false
 	}
 });
-
-var year = document.getElementById('#year');
-year.innerHTML = new Date('Y')

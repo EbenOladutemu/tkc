@@ -1,4 +1,4 @@
-/*
+  /*
   Theme Name: DevFolio
   Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
   Author: BootstrapMade.com
@@ -475,8 +475,8 @@ a:hover {
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
   background-color: #fff;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .navbar-b.navbar-reduce .nav-link {
